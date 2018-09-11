@@ -1,17 +1,12 @@
 package com.example.jayasaripalli.repos.activity;
 
-import android.app.Dialog;
-import android.content.DialogInterface;
+import android.os.Bundle;
 import android.support.v7.app.AlertDialog;
 import android.support.v7.app.AppCompatActivity;
-import android.os.Bundle;
 import android.support.v7.widget.DividerItemDecoration;
 import android.support.v7.widget.LinearLayoutManager;
 import android.support.v7.widget.RecyclerView;
 import android.util.Log;
-import android.view.View;
-import android.widget.Button;
-import android.widget.EditText;
 import android.widget.ImageView;
 import android.widget.TextView;
 
@@ -22,11 +17,9 @@ import com.example.jayasaripalli.repos.model.Repository;
 import com.example.jayasaripalli.repos.model.User;
 import com.example.jayasaripalli.repos.service.GithubApiService;
 
-import java.text.MessageFormat;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Objects;
-import java.util.logging.Logger;
 
 import retrofit2.Call;
 import retrofit2.Callback;
