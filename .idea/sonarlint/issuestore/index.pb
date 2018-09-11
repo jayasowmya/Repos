@@ -1,0 +1,19 @@
+
+@
+app/build.gradle,f/4/f4a01d6a4fcb971362ec00a83903fd3902f52164
+P
+ app/src/main/AndroidManifest.xml,8/c/8c55c3ccc257e5907959013f99656e4c8ec3903e
+
+Oapp/src/main/java/com/example/jayasaripalli/repos/service/GithubApiService.java,d/9/d99a9a1f7933f1509d492a592f79e5c65b48dee9
+w
+Gapp/src/main/java/com/example/jayasaripalli/repos/model/Repository.java,2/9/2930f2b6f9883009be44f7dbac4580161a58bb3a
+z
+Japp/src/main/java/com/example/jayasaripalli/repos/adapter/RepoAdapter.java,6/6/66fc40ec0f1843948c27deb9ebd753eb24994e64
+|
+Lapp/src/main/java/com/example/jayasaripalli/repos/activity/MainActivity.java,f/1/f152c0b6b61cf1b20d58ddec807f22f0e0490312
+w
+Gapp/src/main/java/com/example/jayasaripalli/repos/GlideImageModule.java,2/3/234d831c18b828a47c415acb303ebda3015220ef
+q
+Aapp/src/main/java/com/example/jayasaripalli/repos/model/User.java,a/4/a402cf19c7d510886481b6a1f90a2729f68764b5
+‚
+Rapp/src/main/java/com/example/jayasaripalli/repos/activity/RepoDetailActivity.java,4/7/4788a607c4d13588f83bd63fbd045f6804e84aa1
