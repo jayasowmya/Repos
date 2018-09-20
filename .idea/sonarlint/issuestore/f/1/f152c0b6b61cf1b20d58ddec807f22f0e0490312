@@ -1,9 +1,4 @@
 
-tsquid:S1450"XRemove the "submitBtn" field and declare it as a local variable in the relevant methods.(İ²°8°ú€›Ï,
-jsquid:MaximumInheritanceDepth"<This class has 7 parents which is greater than 5 authorized.(²Ú±8©®àšÏ,
-Csquid:S1068"'Remove this unused "TAG" private field.(À÷Ô÷8°ú€›Ï,
-Hsquid:S1068",Remove this unused "retrofit" private field.(Š¢Ú½8°ú€›Ï,
-xsquid:S1450"WRemove the "username" field and declare it as a local variable in the relevant methods.(ØĞÉÉüÿÿÿÿ8°ú€›Ï,
-Gsquid:S1068"+Remove this unused "repoNum" private field.(äÖòÓ8°ú€›Ï,
-Msquid:S1068",Remove this unused "repoList" private field.(ñûÒäüÿÿÿÿ8°ú€›Ï,
-Jsquid:S1068".Remove this unused "profileImg" private field.(¨Ãùø8°ú€›Ï,
+tsquid:S1450"XRemove the "submitBtn" field and declare it as a local variable in the relevant methods.(İ²°8§”èŞ,
+xsquid:S1450"WRemove the "username" field and declare it as a local variable in the relevant methods.(ØĞÉÉüÿÿÿÿ8¦”èŞ,
+jsquid:MaximumInheritanceDepth"<This class has 6 parents which is greater than 5 authorized.(ìêÍâ8§”èŞ,

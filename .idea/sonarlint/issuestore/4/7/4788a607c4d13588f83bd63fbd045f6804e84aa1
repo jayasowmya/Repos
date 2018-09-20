@@ -1,12 +1,3 @@
 
-jsquid:UselessImportCheck"<Remove this unused import 'android.content.DialogInterface'.(Š­›¨þÿÿÿÿ8ÄÒ¡œÏ,
-Wsquid:S2696"6Make the enclosing method "static" or remove this set.(µûëŠüÿÿÿÿ8ÄÒ¡œÏ,
-^squid:UselessImportCheck"5Remove this unused import 'java.util.logging.Logger'.(ƒ¥óš8ÄÒ¡œÏ,
-]squid:UselessImportCheck"/Remove this unused import 'android.app.Dialog'.(·‚Àžúÿÿÿÿ8ÄÒ¡œÏ,
-dsquid:S1192"IUse already-defined constant 'TAG' instead of duplicating its value here.(ëœãt8ÄÒ¡œÏ,
-]squid:UselessImportCheck"4Remove this unused import 'android.widget.EditText'.(†Å›Ú8ÄÒ¡œÏ,
-jsquid:MaximumInheritanceDepth"<This class has 7 parents which is greater than 5 authorized.(«Ý®®8ÄÒ¡œÏ,
-Csquid:S1068"'Remove this unused "TAG" private field.(¬é8ÄÒ¡œÏ,
-\squid:UselessImportCheck".Remove this unused import 'android.view.View'.(Ø½­äþÿÿÿÿ8ÄÒ¡œÏ,
-]squid:UselessImportCheck"4Remove this unused import 'java.text.MessageFormat'.(Íðûå8ØÄƒÛÑ,
-`squid:UselessImportCheck"2Remove this unused import 'android.widget.Button'.(²òžýÿÿÿÿ8ÄÒ¡œÏ,
+jsquid:S1192"IDefine a constant instead of duplicating this literal "username" 3 times.(÷ÕàÎøÿÿÿÿ8ÈÁŠèÞ,
+jsquid:MaximumInheritanceDepth"<This class has 7 parents which is greater than 5 authorized.(«Ý®®8ÈÁŠèÞ,

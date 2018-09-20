@@ -17,3 +17,17 @@ q
 Aapp/src/main/java/com/example/jayasaripalli/repos/model/User.java,a/4/a402cf19c7d510886481b6a1f90a2729f68764b5
 ‚
 Rapp/src/main/java/com/example/jayasaripalli/repos/activity/RepoDetailActivity.java,4/7/4788a607c4d13588f83bd63fbd045f6804e84aa1
+^
+.app/src/main/res/layout/fragment_repo_list.xml,4/d/4d986004ed7e6771446baaede8ba5b62d807e5e2
+U
+%app/src/main/res/layout/list_item.xml,0/e/0e2dbde10fa21a69e5da23f2681513bb29e1a4c4
+S
+#app/src/main/res/values/strings.xml,d/2/d2281fbb3027de2722081a53408dd77628bf080e
+`
+0app/src/main/res/layout/activity_repo_detail.xml,b/4/b4d18845e9a9110c624b41f9c0d56a1b9177a627
+h
+8app/src/main/res/layout-sw600dp/activity_repo_detail.xml,8/e/8ec3d06e4110f0d966d0c794ba987972a6f58aa2
+w
+Gapp/src/main/java/com/example/jayasaripalli/repos/RepoListFragment.java,c/6/c690be9c117633ab2de9d1e2bf0b4802c3e57a2d
+€
+Papp/src/main/java/com/example/jayasaripalli/repos/activity/RepoListActivity.java,7/e/7e8e8d162f1b52fa49152d21a2f4b6a6fa390608
