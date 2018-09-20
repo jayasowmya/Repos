@@ -88,24 +88,21 @@ public class RepoDetailActivity extends AppCompatActivity {
                     .error(R.drawable.ic_launcher_background)
                     .into(profileImg);
             repoNum.setText("the number of public repositories are:"+response.body().getPublic_repos());
-            profileImg.setOnClickListener(new View.OnClickListener() {
-                @Override
-                public void onClick(View view) {
-                    if (mTwoPane) {
-                        Bundle arguments = new Bundle();
-                        arguments.putString("username", uName);
-                        RepoListFragment fragment = new RepoListFragment();
-                        fragment.setArguments(arguments);
-                        getSupportFragmentManager().beginTransaction()
-                                .replace(R.id.item_detail_container, fragment)
-                                .commit();
-                    } else {
-                        Context context = view.getContext();
-                        Intent intent = new Intent(context, RepoListActivity.class);
-                        intent.putExtra("username", uName);
+            profileImg.setOnClickListener(view -> {
+                if (mTwoPane) {
+                    Bundle arguments = new Bundle();
+                    arguments.putString("username", uName);
+                    RepoListFragment fragment = new RepoListFragment();
+                    fragment.setArguments(arguments);
+                    getSupportFragmentManager().beginTransaction()
+                            .replace(R.id.item_detail_container, fragment)
+                            .commit();
+                } else {
+                    Context context = view.getContext();
+                    Intent intent = new Intent(context, RepoListActivity.class);
+                    intent.putExtra("username", uName);
 
-                        context.startActivity(intent);
-                    }
+                    context.startActivity(intent);
                 }
             });
         }
