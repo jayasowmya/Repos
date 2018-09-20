@@ -8,7 +8,6 @@
     android:baselineAligned="false"
     android:divider="?android:attr/dividerHorizontal"
     android:orientation="horizontal"
-    android:showDividers="middle"
     tools:context=".activity.RepoDetailActivity">
 
     <include layout="@layout/item_user_detail" />
